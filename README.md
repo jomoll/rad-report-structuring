@@ -10,7 +10,11 @@
 <p align="center">
 📝 <a href="https://arxiv.org/abs/2506.00200" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/collections/StanfordAIMI/structuring-with-lightweight-models-683e9eb895d42e04112fad88" target="_blank">Hugging Face</a> • 🧩 <a href="https://github.com/jomoll/rad-report-structuring" target="_blank">Github</a> • 🪄 <a href="https://stanford-aimi.github.io/structuring.html" target="_blank">Project</a>
 </p>
-
+<div align="center">
+<h3>
+  [Accepted to EMNLP 2025 Main Conference]
+</h3>
+</div>
 <div align="center">
 </div>
 
