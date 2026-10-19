@@ -3,7 +3,7 @@ evaluate
 accelerate==0.28.0
 wandb
 torch==2.3
-transformers==4.39.0
+transformers==5.10.1
 radgraph
 rouge_score
 bert-score==0.3.13
