@@ -2,7 +2,7 @@ datasets
 evaluate
 accelerate==0.28.0
 wandb
-torch==2.3
+torch==2.13.0
 transformers==5.10.1
 radgraph
 rouge_score
