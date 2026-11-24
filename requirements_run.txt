@@ -1,6 +1,6 @@
 transformers==5.10.1
 tokenizers==0.19
-sentencepiece==0.2.0
+sentencepiece==0.2.1
 torch==2.13.0
 evaluate
 rouge_score
